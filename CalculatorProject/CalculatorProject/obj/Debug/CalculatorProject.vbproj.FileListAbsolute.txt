@@ -1,0 +1,10 @@
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\bin\Debug\CalculatorProject.exe.config
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\obj\Debug\CalculatorProject.Form1.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\obj\Debug\CalculatorProject.Resources.resources
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\obj\Debug\CalculatorProject.vbproj.GenerateResource.Cache
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\bin\Debug\CalculatorProject.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\bin\Debug\CalculatorProject.pdb
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\bin\Debug\CalculatorProject.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\obj\Debug\CalculatorProject.exe
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\obj\Debug\CalculatorProject.xml
+C:\Users\Novella Ayu\AppData\Local\Temporary Projects\CalculatorProject\obj\Debug\CalculatorProject.pdb
